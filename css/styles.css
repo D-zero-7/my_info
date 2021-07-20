@@ -2,7 +2,7 @@
   background-color: #ade8f4;
   margin: 0%;
   position: relative;
-  padding-top: 7%;
+  padding: 100px 100px 0px;
   background-image: url(https://media.giphy.com/media/TgMAf5sS1RbdqKsiku/giphy.gif);
   background-repeat: no-repeat;
   background-position-x: center;
@@ -50,15 +50,15 @@ a:hover {
 }
 .top-cloud {
   position: absolute;
-  bottom: 150px;
-  right: 250px;
-  width: 300px; /* width of container */
+ width: 300px;
+  left: 20%;
+  bottom: 30%;
 }
 .bottom-cloud {
   position: absolute;
   width: 300px;
-  left: 250px;
-  bottom: 150px;
+  left: 20%;
+  bottom: 30%;
 }
 .my-pic {
   height: 3%;
