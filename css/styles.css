@@ -50,15 +50,15 @@ a:hover {
 }
 .top-cloud {
   position: absolute;
-  bottom: 30%;
-  right: 20%;
+  bottom: 29%;
+   left: 10%;
   width: 300px; /* width of container */
 }
 .bottom-cloud {
   position: absolute;
   width: 300px;
-  left: 20%;
-  bottom: 30%;
+  right: 10%;
+  bottom: 2%;
 }
 .my-pic {
   height: 3%;
