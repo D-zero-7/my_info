@@ -1,0 +1,127 @@
+.top-container {
+  background-color: #ade8f4;
+  margin: 0%;
+  position: relative;
+  padding-top: 7%;
+  background-image: url(https://media.giphy.com/media/TgMAf5sS1RbdqKsiku/giphy.gif);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: 600px;
+}
+body {
+  margin: 0%;
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+}
+p {
+  line-height: 2;
+}
+hr {
+  border-style: dotted none none;
+  border-width: 7px;
+  width: 5.5%;
+  color: #eaf9f9;
+  margin: 100px auto;
+}
+h1 {
+  margin: 0;
+  font-family: "Sacramento", cursive;
+  font-size: 5.62rem;
+  color: #14213d;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.6rem;
+  color: #14213d;
+  font-weight: normal;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+a {
+  color: #11999e;
+  text-decoration: none;
+  margin: 50px 30px 50px;
+  font-family: "Montserrat", sans-serif;
+}
+a:hover {
+  color: aliceblue;
+}
+.top-cloud {
+  position: absolute;
+  bottom: 150px;
+  right: 250px;
+  width: 300px; /* width of container */
+}
+.bottom-cloud {
+  position: absolute;
+  width: 300px;
+  left: 250px;
+  bottom: 150px;
+}
+.my-pic {
+  height: 3%;
+  width: 10%;
+}
+.profile {
+  padding-top: 100px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.webdev-img {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+.art-img {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+.contact-me {
+  padding-bottom: 50px;
+  margin-bottom: 10px;
+}
+.bottom-container {
+  background-color: #ade8f4;
+  padding: 100px 0px 20px;
+}
+.copy-right {
+  padding: 50px 0px 0px;
+  margin-bottom: 0px;
+  color: dimgray;
+}
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 8px;
+  line-height: 8px;
+  color: #14213d;
+  font-family: "Montserrat", sans-serif;
+  width: 145px;
+  font-size: 21px;
+  font-weight: 400;
+  padding: 18px;
+  background-color: #63e0e5;
+  border: solid #11999e 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #70e9e9;
+  color: white;
+  border: solid #eaf9f9 0px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
