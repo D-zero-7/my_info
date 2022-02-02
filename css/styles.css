@@ -15,6 +15,7 @@ body {
 }
 p {
   line-height: 2;
+  font-size: larger;
 }
 hr {
   border-style: dotted none none;
@@ -73,11 +74,13 @@ a:hover {
   text-align: left;
   line-height: 2;
 }
+
 .webdev-img {
-  width: 25%;
+  width: 35%;
   float: left;
   padding-right: 30px;
 }
+
 .art-img {
   width: 25%;
   float: right;
